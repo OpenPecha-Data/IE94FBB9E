@@ -1,0 +1,26 @@
+id: IE94FBB9E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:53:44.588727'
+last_modified: '2022-05-30T22:53:44.588733'
+parser: null
+source_metadata:
+  title: Rago Choktrul Tupten Shedrup Gyatso
+  language: bo
+  description: 'Texts by and about Rago Choktrul Tupten Shedrup Gyatso (rag mgo mchog
+    sprul thub bstan bshad sgrub rgya mtsho, 1879–1972), a prolific author of the
+    Palyul tradition:'
+  volume:
+    fC77C:
+      title: 'Vines of Amṛta: A Prayer to the Lineage of the Bodhicaryāvatāra'
+      base_file: fC77C.txt
+      order: 1
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
